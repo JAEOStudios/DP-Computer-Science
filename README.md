@@ -18,11 +18,16 @@ Resource numbers are formatted as "Topic-Sequence - Name". So the 3rd lesson in 
 ## Lessons:
 Powerpoint presentations including code snippets and labs/programming assignments/worksheets at the end. 
 
+## In Class Activities:
+Class-long activities, often competitive.
+
 ## Programming Assignments:
 Python assignments intended to take 60-120 minutes.
 
-## Worksheets:
-Questions, activies, or otherwise work on paper that can vary in time.
 
 ## Projects:
 Larger assignments that correspond to the unit's overall themes. Can be programming or paper based.
+
+
+## Worksheets:
+Questions, activies, or otherwise work on paper that can vary in time.
