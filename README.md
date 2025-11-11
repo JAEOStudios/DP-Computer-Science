@@ -20,3 +20,9 @@ Powerpoint presentations including code snippets and labs/programming assignment
 
 ## Programming Assignments:
 Python assignments intended to take 60-120 minutes.
+
+## Worksheets:
+Questions, activies, or otherwise work on paper that can vary in time.
+
+## Projects:
+Larger assignments that correspond to the unit's overall themes. Can be programming or paper based.
