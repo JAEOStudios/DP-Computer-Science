@@ -15,11 +15,12 @@ Resource numbers are formatted as "Topic-Sequence - Name". So the 3rd lesson in 
 ### Topic IA - Internal Assessment
 
 # Directory:
-## Lessons:
-Powerpoint presentations including code snippets and labs/programming assignments/worksheets at the end. 
 
 ## In Class Activities:
 Class-long activities, often competitive.
+
+## Lessons:
+Powerpoint presentations including code snippets and labs/programming assignments/worksheets at the end. 
 
 ## Programming Assignments:
 Python assignments intended to take 60-120 minutes.
